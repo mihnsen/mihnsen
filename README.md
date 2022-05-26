@@ -25,15 +25,15 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [teeinblue](https://teeinblue.com)
 
-- 🌱 I’m currently learning **Capacitor, Vue3 and Flutter**
+- 🌱 I’m currently learning **Vue3, Personal finance and Entrepreneur**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mihnsen](https://github.com/mihnsen)
+- 👨‍💻 All of my open source projects are available at [https://github.com/mihnsen](https://github.com/mihnsen)
 
-- 💬 Ask me about **Vue, TypeScript, Entrepreneur**
+- 💬 Ask me about **Vue, TypeScript, Product**
 
 - 📫 How to reach me [mihnsen](https://www.linkedin.com/in/mihnsen/)
 
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/mihnsen" target="blank"><img src="https://img.shields.io/twitter/follow/mihnsen?logo=twitter&style=for-the-badge" alt="mihnsen" /></a>
 </p>
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="linux" width="40" height="40"/>
 </p>
 
-<p align="center">
+<p align="center" style="margin-top: 50px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mihnsen&show_icons=true&locale=en&layout=compact&theme=dark" alt="mihnsen" />
 </p>
 
