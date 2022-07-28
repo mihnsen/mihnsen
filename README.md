@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="linux" width="40" height="40"/>
 </p>
 
+<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihnsen&theme=dark" alt="mihnsen" />
 </p>
+-->
