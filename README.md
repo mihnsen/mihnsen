@@ -24,9 +24,10 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/mihnsen" target="blank"><img src="https://img.shields.io/twitter/follow/mihnsen?logo=twitter&style=for-the-badge" alt="mihnsen" /></a>
 </p>
 
-- 🔭 I’m currently working on [teeinblue](https://teeinblue.com)
+- 🔭 I’m co-founded a company name [ownego](https://ownego.com)
+- 🔭 I’m currently working on [teeinblue](https://teeinblue.com) and [qikify](https://qikify.com)
 - 🌱 I’m currently learning **Vue3, Personal finance and Entrepreneur**
-- 💬 Ask me about **Vue, TypeScript, Product**
+- 💬 Ask me about **Vim, Linux, Product owner, Life style**
 
 <p align="center"> 
 <a href="https://www.vim.org/" target="_blank"> <img src="https://www.vim.org/images/vim_header.gif" alt="vim" width="160" height="40"/> </a>
