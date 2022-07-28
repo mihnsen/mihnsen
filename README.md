@@ -34,14 +34,6 @@ Here are some ideas to get you started:
 <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="linux" width="40" height="40"/>
 </p>
 
-<p class="d-flex flex-wrap">
-  <p class="col-md-4">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mihnsen&show_icons=true&locale=en&layout=compact&theme=dark" alt="mihnsen" />
-  </p>
-  <p class="col-md-4">
-    <img src="https://github-readme-stats.vercel.app/api?username=mihnsen&show_icons=true&locale=en&theme=dark" alt="mihnsen" />
-  </p>
-  <p class="col-md-4">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihnsen&theme=dark" alt="mihnsen" />
-  </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihnsen&theme=dark" alt="mihnsen" />
 </p>
