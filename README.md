@@ -34,13 +34,14 @@ Here are some ideas to get you started:
 <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="linux" width="40" height="40"/>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihnsen&theme=onedark" alt="mihnsen" /></a> </p>
-
-<p align="center" style="margin-top: 50px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mihnsen&show_icons=true&locale=en&layout=compact&theme=dark" alt="mihnsen" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mihnsen&show_icons=true&locale=en&theme=dark" alt="mihnsen" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mihnsen&theme=dark" alt="mihnsen" />
-</p>
+<div class="d-flex flex-wrap">
+  <div class="col-md-4">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mihnsen&show_icons=true&locale=en&layout=compact&theme=dark" alt="mihnsen" />
+  </div>
+  <div class="col-md-4">
+    <img src="https://github-readme-stats.vercel.app/api?username=mihnsen&show_icons=true&locale=en&theme=dark" alt="mihnsen" />
+  </div>
+  <div class="col-md-4">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihnsen&theme=dark" alt="mihnsen" />
+  </div>
+</div>
