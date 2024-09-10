@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mihnsen&label=Profile%20views&color=0e75b6&style=flat" alt="mihnsen" /> </p>
 
 <h1 align="center">Hi 👋, I'm Minh Nguyen</h1>
-<h3 align="center">A father, programer, product builder from Hanoi</h3>
+<h3 align="center">now in Nha Trang</h3>
 <p align="center">
   <a href="https://twitter.com/mihnsen" target="blank"><img src="https://img.shields.io/twitter/follow/mihnsen?logo=twitter&style=for-the-badge" alt="mihnsen" /></a>
 </p>
