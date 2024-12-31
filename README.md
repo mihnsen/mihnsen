@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m co-founded a company name [ownego](https://ownego.com)
 - 🔭 I’m currently working on [teeinblue](https://teeinblue.com) and [qikify](https://qikify.com)
-- 🌱 I’m currently learning **Vue3, Personal finance and Entrepreneur**
-- 💬 Ask me about **Vim, Linux, Product owner, Life style**
+- 🌱 I’m currently learning **automobile**
+- 💬 Ask me about **Vim, Linux, Product, Lifestyle, Entrepreneur, Investment**
 
 <p align="center"> 
 <a href="https://www.vim.org/" target="_blank"> <img src="https://www.vim.org/images/vim_header.gif" alt="vim" width="160" height="40"/> </a>
